@@ -1,10 +1,5 @@
 <h1 align="center">Hola 👋, soy Juani</h1><h3 align="center">estudiante de desarrollo de software</h3>- 🔭 Actualmente estoy en **UTN (Universidad Tecnológica Nacional) FRSR**
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
-</p><h3 align="left">
-
-
-
 
 
 Lenguajes y herramientas: </h3>
