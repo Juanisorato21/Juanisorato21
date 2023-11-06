@@ -4,7 +4,7 @@
 
 ### Hi 👋, I'm Juan Sorato" // Hola 👋 Soy Juan Sorato // 你好👋我是胡安·索拉托
 <div align="center">
-  <img src="https://media.giphy.com/media/8TkagzJHXLWmI/giphy.gif" width="500" alt="Texto Alternativo">
+  <img src="https://media.giphy.com/media/8TkagzJHXLWmI/giphy.gif" width="400" alt="Texto Alternativo">
 </div>
 I am a passionate programming student at the National Technological University - San Rafael Regional Faculty. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍
 
