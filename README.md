@@ -3,8 +3,11 @@
 </div>
 
 ### Hi 👋, I'm Juan Sorato" // Hola 👋 Soy Juan Sorato // 你好👋我是胡安·索拉托
+I am a passionate programming student at the National Technological University - San Rafael Regional Faculty. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍
 
 Soy un estudiante apasionado de programación en la Universidad Tecnológica Nacional - Facultad Regional San Rafael. Tengo experiencia en programación en Java, Python y JavaScript, aunque mi lenguaje favorito es Java. 😍
+
+我是国立技术大学圣拉斐尔地区学院一名充满热情的编程学生。我有 Java、Python 和 JavaScript 编程经验，但我最喜欢的语言是 Java。 😍
 
 <h1> Lenguajes </h1>
 <a href="https://lenguajejs.com/javascript/" target="_blank" rel="noreferrer">
