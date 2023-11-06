@@ -6,12 +6,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/8TkagzJHXLWmI/giphy.gif" width="400" alt="Texto Alternativo">
 </div>
-I am a passionate student of programming. I am currently studying at the National Technological University - San Rafael Regional Faculty. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍
+<h3> I am a passionate student of programming. I am currently studying at the National Technological University - San Rafael Regional Faculty. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍</h3>
 
+<h3> Soy un estudiante apasionado de programación. Actualmente estudio en la Universidad Tecnológica Nacional - Facultad Regional San Rafael. Tengo experiencia en programando en Java, Python y JavaScript, aunque mi lenguaje favorito es Java. 😍</h3>
 
-Soy un estudiante apasionado de programación. Actualmente estudio en la Universidad Tecnológica Nacional - Facultad Regional San Rafael. Tengo experiencia en programando en Java, Python y JavaScript, aunque mi lenguaje favorito es Java. 😍
-
-我是国立技术大学圣拉斐尔地区学院一名充满热情的编程学生。我有 Java、Python 和 JavaScript 编程经验，但我最喜欢的语言是 Java。 😍
+<h3> 我是国立技术大学圣拉斐尔地区学院一名充满热情的编程学生。我有 Java、Python 和 JavaScript 编程经验，但我最喜欢的语言是 Java。 😍</h3>
 
 <h1> Lenguajes </h1>
 <a href="https://lenguajejs.com/javascript/" target="_blank" rel="noreferrer">
