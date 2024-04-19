@@ -8,7 +8,7 @@
 </div>
 <p> I am a passionate student of programming. I am currently studying at the Institute of Higher Education in Informatics IES-9012-San Rafael. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍</p>
 
-<p> Soy un apasionado estudiante de programación. Actualmente estudio en la Universidad Tecnológica Nacional - Facultad Regional San Rafael. Tengo experiencia en programando en Java, Python y JavaScript, aunque mi lenguaje favorito es Java. 😍</p>
+<p> Soy un apasionado estudiante de programación. Actualmente estoy estudiando en el Instituto de Educacion Superior en Informatica IES-9012-San Rafael. Tengo experiencia en programando en Java, Python y JavaScript, aunque mi lenguaje favorito es Java. 😍</p>
 
 <p> 我是国立技术大学圣拉斐尔地区学院一名充满热情的编程学生。我有 Java、Python 和 JavaScript 编程经验，但我最喜欢的语言是 Java。 😍</p>
 
