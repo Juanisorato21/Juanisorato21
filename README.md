@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/8TkagzJHXLWmI/giphy.gif" width="400" alt="Texto Alternativo">
 </div>
-<p> I am a passionate student of programming. I am currently studying at the National Technological University - San Rafael Regional Faculty. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍</p>
+<p> I am a passionate student of programming. I am currently studying at the Institute of Higher Education in Informatics IES-9012-San Rafael. I have programming experience in Java, Python and JavaScript, although my favorite language is Java. 😍</p>
 
 <p> Soy un apasionado estudiante de programación. Actualmente estudio en la Universidad Tecnológica Nacional - Facultad Regional San Rafael. Tengo experiencia en programando en Java, Python y JavaScript, aunque mi lenguaje favorito es Java. 😍</p>
 
