@@ -23,9 +23,6 @@
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="100" height="100"/>
         </a>
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="JAVA" width="100" height="100"/>
-        </a>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
             <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="HTML5" width="100" height="100"/>
         </a>
     <h1>Frameworks</h1>
